@@ -4,6 +4,7 @@ import numpy as np
 import pickle
 import tensorflow_hub as hub
 
+
 X=np.empty(shape=(14500,224,224,3), dtype=np.float16)
 
 with open("data/images and there labels dataset/XXX (1)", "rb") as fp:
