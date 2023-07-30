@@ -16,3 +16,7 @@ Oluşturduğumuz harf dizisine karşılık gelen kelimeyi istiyoruz, bu nedenle,
 ## Örnekler:
 ![Örnek 1](https://github.com/anas-hamada-2000/Sign-Language/blob/19c96038c18ff488a9b35dd23fbcb94e7f98be3b/readme%20images/Screenshot%202023-06-21%20113741.png)
 ![Örnek 2](https://github.com/anas-hamada-2000/Sign-Language/blob/28e4344bc326a4aabb3d485df974d2e455736b42/readme%20images/Screenshot%202023-06-21%20113808.png)
+
+https://github.com/anas-hamada-2000/Sign-Language/assets/68608987/ae01e5fb-c382-4c7d-89ea-cedf13e1f8cf
+
+https://github.com/anas-hamada-2000/Sign-Language/assets/68608987/448b3354-a2d0-4c0a-aaee-d04de31c49bc
