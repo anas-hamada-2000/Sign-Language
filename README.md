@@ -1,4 +1,4 @@
-# Sign-Language
+# Real-Time Sign-Language Recognizer
 ## Yapılan Çalışmaların Özeti:
 ### Veritabanı toplama:
 Bu veritabanı, Türkçe dilindeki her harf için 500 fotoğraftan oluşmaktadır.
@@ -20,3 +20,38 @@ Oluşturduğumuz harf dizisine karşılık gelen kelimeyi istiyoruz, bu nedenle,
 https://github.com/anas-hamada-2000/Sign-Language/assets/68608987/ae01e5fb-c382-4c7d-89ea-cedf13e1f8cf
 
 https://github.com/anas-hamada-2000/Sign-Language/assets/68608987/448b3354-a2d0-4c0a-aaee-d04de31c49bc
+
+## Kullanılan Materyal Ve Metotlar:
+### a) Materyal Listesi:
+#### kullanılan dataset: Kullanılan veri setinde Türk İşaret Dilindeki
+her harf için 500 adet resim bulunmaktadır.
+#### TensorFlow: makine öğrenimi için ücretsiz ve açık kaynaklı bir
+yazılım kütüphanesidir
+#### Matplotlib: 2 boyutlu grafikler hazırlamamızı sağlayan bir python
+kütüphanesidir
+#### NumPy: Python programlama dili için büyük, çok boyutlu dizileri
+ve matrisleri destekleyen, bu diziler üzerinde çalışacak üst düzey
+matematiksel işlevler ekleyen bir kitaplıktır
+#### Pandas: veri işlemesi ve analizi için python programlama dilinde
+yazılmış olan bir yazılım kütüphanesidir
+#### OpenCV: bilgisayarla görü, makine öğrenimi, görüntü işleme,
+video analizi gibi uygulamalar için kullanılan devasa bir açık
+kaynak kodlu kütüphanedir
+### b) Metoda Listesi:
+#### HandDetector: Görüntüdeki ellerin konumlarını belirleyen bir
+fonksiyon
+#### cv2.resize: Ölçekleme(scaling) resmin yeniden boyutlandırılması
+işlemidir
+#### cv2.imread: Bir resmi okumak için cv2.imread () fonksiyonu
+kullanılır. Resim çalışma dizininde olmalıdır veya tam bir resim
+yolu verilmelidir
+#### cv2.imwrite: Bir resmi kaydetmek için cv2.imwrite() fonksiyonu
+kullanılır
+#### cv2.imshow: parametre olarak verdiğimiz bir mat nesnesini resim
+tipine dönüştürerek bir pencere içerisinde ekranda gösterir
+#### ‘adam’ optimizer: w değerlerinin iyileştirilmesi için kullanılan bir
+optimizasyon algoritması, ve her bir parametre için gerçek
+zamanlı olarak öğrenme oranını günceller
+#### fit() fonksiyonu: eğitim sırasında değişenlerin kaydını tutan bir
+“geçmiş” objesi döndürmektedir
+
