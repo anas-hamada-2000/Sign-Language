@@ -14,3 +14,4 @@ Oluşturduğumuz harf dizisine karşılık gelen kelimeyi istiyoruz, bu nedenle,
 ---
 ![alt](https://github.com/anas-hamada-2000/Sign-Language/blob/4feab0fa060a44ef5728d2a417f70cd6f3793c32/readme%20images/Mobile_Fig_04.png)
 ## Örnekler:
+![örnek 1](https://github.com/anas-hamada-2000/Sign-Language/blob/19c96038c18ff488a9b35dd23fbcb94e7f98be3b/readme%20images/Screenshot%202023-06-21%20113741.png)
