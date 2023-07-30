@@ -11,3 +11,6 @@ Video fotoğraflarını tek tek alıp analiz edeceğiz, ilk önce fotoğrafta el
 ### Kelime oluşturma:
 Oluşturduğumuz harf dizisine karşılık gelen kelimeyi istiyoruz, bu nedenle, el hızlı hareket ettiğinde modelimiz hiçbir şey tahmin etmeyecektir çünkü el o sırada bir harften diğerine hareket etmektedir.El hareket konumundan dinlenme konumuna geçtiğinde, bu yeni bir harfe geçtiğimiz anlamına gelir ve bu nedenle dinlenme konumunda olduğu sürece model yeni harfi yalnızca bir kez tahmin edecektir.
 
+---
+![alt](https://github.com/anas-hamada-2000/Sign-Language/blob/4feab0fa060a44ef5728d2a417f70cd6f3793c32/readme%20images/Mobile_Fig_04.png)
+## Örnekler:
