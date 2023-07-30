@@ -12,6 +12,7 @@ Video fotoğraflarını tek tek alıp analiz edeceğiz, ilk önce fotoğrafta el
 Oluşturduğumuz harf dizisine karşılık gelen kelimeyi istiyoruz, bu nedenle, el hızlı hareket ettiğinde modelimiz hiçbir şey tahmin etmeyecektir çünkü el o sırada bir harften diğerine hareket etmektedir.El hareket konumundan dinlenme konumuna geçtiğinde, bu yeni bir harfe geçtiğimiz anlamına gelir ve bu nedenle dinlenme konumunda olduğu sürece model yeni harfi yalnızca bir kez tahmin edecektir.
 
 ---
-![alt](https://github.com/anas-hamada-2000/Sign-Language/blob/4feab0fa060a44ef5728d2a417f70cd6f3793c32/readme%20images/Mobile_Fig_04.png)
+![Mobile Net Parameters](https://github.com/anas-hamada-2000/Sign-Language/blob/4feab0fa060a44ef5728d2a417f70cd6f3793c32/readme%20images/Mobile_Fig_04.png)
 ## Örnekler:
-![örnek 1](https://github.com/anas-hamada-2000/Sign-Language/blob/19c96038c18ff488a9b35dd23fbcb94e7f98be3b/readme%20images/Screenshot%202023-06-21%20113741.png)
+![Örnek 1](https://github.com/anas-hamada-2000/Sign-Language/blob/19c96038c18ff488a9b35dd23fbcb94e7f98be3b/readme%20images/Screenshot%202023-06-21%20113741.png)
+![Örnek 2](https://github.com/anas-hamada-2000/Sign-Language/blob/28e4344bc326a4aabb3d485df974d2e455736b42/readme%20images/Screenshot%202023-06-21%20113808.png)
