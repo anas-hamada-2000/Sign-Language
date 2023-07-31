@@ -37,7 +37,7 @@ yazılmış olan bir yazılım kütüphanesidir
  * OpenCV: bilgisayarla görü, makine öğrenimi, görüntü işleme,
 video analizi gibi uygulamalar için kullanılan devasa bir açık
 kaynak kodlu kütüphanedir
-### b) Metoda Listesi:
+### b) Metod Listesi:
  * HandDetector: Görüntüdeki ellerin konumlarını belirleyen bir
 fonksiyon
  * cv2.resize: Ölçekleme(scaling) resmin yeniden boyutlandırılması
